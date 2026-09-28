@@ -1,0 +1,6 @@
+{
+  "name": "nuvel-icons",
+  "compatibility_date": "2026-09-26",
+  "observability": { "enabled": true },
+  "assets": { "directory": "." }
+}
